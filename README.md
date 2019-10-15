@@ -3,6 +3,6 @@
 This repository includes lectures notes + Jupyter Notebooks with solutions from practical exercises.
 
 *Topic list*:
-- Linear regression
-- Logistic regression
-- Neural Networks
+- Linear regression (exercise 1)
+- Logistic regression (exercise 2)
+- Neural Networks (exercise 3, 4)
