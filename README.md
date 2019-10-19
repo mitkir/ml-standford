@@ -8,3 +8,4 @@ This repository includes lectures notes + Jupyter Notebooks with solutions from 
 - Neural Networks (exercise 3, 4)
 - Support Vector Machines (exercise 6)
 - Clustering and Dimensionality reduction (exercise 7)
+- Anomaly Detection and Recommender Systems (exercise 8)
